@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: ""
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
@@ -11,8 +11,7 @@ I am a postdoctoral researcher in Industralized Construction Innovation at Natio
 
 The long term goal of my reseaerch is to advance automation and intelligence technologies, and human-centered approaches to address challeges in construction and infrastructure systems. My current work focuses on the following aspects:  
 
-======
-1. Human-Robot Interaction
+1. **Human-Robot Interaction**
 1. Construction Automation and Robotics 
 1. Artificial Intelligence in Construction
 1. Building Decarbonization and Resilience
