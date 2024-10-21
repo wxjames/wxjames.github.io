@@ -21,12 +21,12 @@ repository               : "wxjames/wxjames.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Headshot.jpg"
+  avatar           : "Headshot.png"
   name             : "Xin Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral Researcher in Industralized Construction Innovation"
+  bio              : "Postdoctoral Researcher in Industralized Construction Innovation at National Renewable Energy Laboratory (NREL)"
   location         : "Golden, CO"
-  employer         : "National Renewable Energy Laboratory (NREL)"
+  employer         : "NREL"
   uri              : # URL
   email            : "Xin.Wang@nrel.gov" 
 
