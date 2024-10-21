@@ -2,7 +2,7 @@
 title: "Teaching Assitant (TA) for CS 220 Data Programming"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2022-spring-teaching-1
+permalink: /teaching/teaching-1
 venue: "Department of Computer Sciences, University of Wisconsin-Madison"
 date: "Spring 2022"
 location: "City, Country"
