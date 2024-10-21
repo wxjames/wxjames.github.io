@@ -1,10 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assitant (TA) for CS 220 Data Programming"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
+permalink: /teaching/2022-spring-teaching-1
+venue: "Department of Computer Sciences, University of Wisconsin-Madison"
+date: "Spring 2022"
 location: "City, Country"
 ---
 
