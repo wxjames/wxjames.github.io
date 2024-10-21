@@ -3,7 +3,7 @@ title: "Industrializing Construction to Decarbonize Buildings"
 collection: research
 type: # "Undergraduate course"
 permalink: /research/2014-spring-teaching-1
-venue: "Industrializing Construction to Decarbonize Buildings"
+venue: "U.S. Department of Energy"
 date: # 2014-01-01
 location: # "City, Country"
 ---
