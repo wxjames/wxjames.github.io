@@ -37,7 +37,10 @@ College of Engineering, *University of Wisconsin-Madison*, Spring 2022-2024
 
 ---
 
-## Teaching Assitant (TA) for CS 220 Data Programming
+## Professional Affiliations
+
+* American Society of Civil Engineers (ASCE), Visualization, Information Modeling, and Simulation (VIMS), Data Sensing and Analysis (DS&A), Canadian Society for Civil Engineering (CSCE) 
+
 
 
 <!-- Education
