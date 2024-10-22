@@ -50,7 +50,7 @@ redirect_from:
 *American Society of Civil Engineering*, June 2022
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="../images/datathon.jpg" alt="Image 1 description" width="450">
+  <img src="../images/datathon.jpg" alt="Image description" width="450">
 </div>
 
 
