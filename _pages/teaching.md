@@ -12,6 +12,18 @@ redirect_from:
 
 Independent Instructor for CEE 159 Civil Engineering Graphics
 
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <img src="images/Headshot.jpg" alt="Description of image" width="300">
+  </div>
+  <div style="flex: 1; padding-left: 20px;">
+    <p>
+      This is the description for the image. You can include any information
+      about the figure here, like its purpose, details, or relevance to your work.
+    </p>
+  </div>
+</div>
+
 Co-Instructor for CEE 669 Spatial and Visual Sensing in Construction
 
 Teaching Assitant (TA) for CS 220 Data Programming
