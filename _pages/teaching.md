@@ -10,7 +10,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Independent Instructor for CEE 159 Civil Engineering Graphics
+
+Co-Instructor for CEE 669 Spatial and Visual Sensing in Construction
+
+Teaching Assitant (TA) for CS 220 Data Programming
+
+
+<!-- Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
@@ -62,4 +69,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
