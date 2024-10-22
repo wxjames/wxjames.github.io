@@ -19,7 +19,7 @@ redirect_from:
   <div style="text-align: center;">
     <iframe width="450" height="338" src="https://www.youtube.com/embed/ew2U-zLq87I" 
     frameborder="0" allowfullscreen></iframe>
-    <p><strong>Field Test Results On a Construction Site Near Milwaukee, WI</strong></p>
+    <p>Field Test Results On a Construction Site Near Milwaukee, WI</p>
   </div>
 
   <div style="text-align: center;">
