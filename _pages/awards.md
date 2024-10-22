@@ -35,6 +35,23 @@ redirect_from:
 
 ---
 
+## First Place in Student Research Presentation in Transforming Construction with Reality Capture Technologies Conference
+
+*Canadian Society for Civil Engineering*, August 2022
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="../images/tcrc2.jpg" alt="Image 1 description" width="450">
+</div>
+
+---
+
+## First Place in VIMS-IAARC Joint Datathon Competition
+
+*American Society of Civil Engineering*, June 2022
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="../images/datathon.jpg" alt="Image 1 description" width="450">
+</div>
 
 
 <!-- Education
