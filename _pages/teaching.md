@@ -26,8 +26,8 @@ Department of Civil and Environment Engineering, *University of Wisconsin-Madiso
 </div>
 ---
 
-Co-Instructor for CEE 669 Spatial and Visual Sensing in Construction
-======
+## Co-Instructor for CEE 669 Spatial and Visual Sensing in Construction
+
 Department of Civil and Environment Engineering, *University of Wisconsin-Madison*, Spring 2023
 
 <div style="display: flex; align-items: flex-start; gap: 0">
@@ -42,8 +42,8 @@ Department of Civil and Environment Engineering, *University of Wisconsin-Madiso
 </div>
 ---
 
-Teaching Assitant (TA) for CS 220 Data Programming
-======
+## Teaching Assitant (TA) for CS 220 Data Programming
+
 Department of Computer Sciences, *University of Wisconsin-Madison*, Spring 2022
 
 <div style="display: flex; align-items: flex-start; gap: 0">
