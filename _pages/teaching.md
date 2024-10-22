@@ -10,8 +10,8 @@ redirect_from:
 
 {% include base_path %}
 
-Independent Instructor for CEE 159 Civil Engineering Graphics
-======
+## Independent Instructor for CEE 159 Civil Engineering Graphics
+
 Department of Civil and Environment Engineering, *University of Wisconsin-Madison*, Spring 2024
 
 <div style="display: flex; align-items: flex-start; gap: 0">
