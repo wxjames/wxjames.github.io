@@ -10,7 +10,30 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Context-Aware Worker Intent Interpretation for Human-Robot Collaboration in Construction
+### Vision–Based Framework for Automatic Interpretation of Construction Workers’ Hand Gestures 
+[Papers 1](https://www.sciencedirect.com/science/article/abs/pii/S0926580521000765), [2](https://www.sciencedirect.com/science/article/abs/pii/S092658052100323X)
+
+<div style="display: flex; justify-content: space-between;">
+
+  <div style="text-align: center;">
+    <iframe width="450" src="https://www.youtube.com/watch?v=ew2U-zLq87I" 
+    frameborder="0" allowfullscreen></iframe>
+    <p><strong>Field Test Results On a Construction Site Near Milwaukee, WI</strong></p>
+  </div>
+
+  <div style="text-align: center;">
+    <iframe width="450" src="https://www.youtube.com/watch?v=LV8_7O8yeCE" 
+    frameborder="0" allowfullscreen></iframe>
+    <p><strong>Pilot Study for Human Machine Interaction in Construction</strong></p>
+  </div>
+
+</div>
+
+---
+
+
+<!-- Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 * M.S. in Jekyll, GitHub University, 2014
@@ -62,4 +85,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
