@@ -18,7 +18,7 @@ Department of Civil and Environment Engineering, *University of Wisconsin-Madiso
   <div style="flex: 1;">
     <img src="../images/159.jpg" alt="Description of image" width="400">
   </div>
-  <div style="flex: 1; padding-left: 10px;">
+  <div style="flex: 1; padding-left: 0px;">
     <p>
       Students were listening to the lecture related to the use of AutoCAD. 
     </p>
@@ -40,6 +40,8 @@ Department of Civil and Environment Engineering, *University of Wisconsin-Madiso
     </p>
   </div>
 </div>
+
+---
 
 Teaching Assitant (TA) for CS 220 Data Programming
 ======
