@@ -29,7 +29,7 @@ redirect_from:
 
 *Canadian Society for Civil Engineering*, August 2022
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh;">
+<div style="display: flex; justify-content: center; align-items: center;">
   <img src="../images/tcrc1.jpg" alt="Image 1 description" width="450">
 </div>
 
