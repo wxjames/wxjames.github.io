@@ -16,14 +16,14 @@ Department of Civil and Environment Engineering, *University of Wisconsin-Madiso
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <img src="../images/159.jpg" alt="Description of image" width="500">
+    <img src="../images/159.jpg" alt="Description of image" width="400">
   </div>
   <div style="flex: 1; padding-left: 10px;">
     <p>
       Students were listening to the lecture related to the use of AutoCAD. 
     </p>
   </div>
-</div>
+</div><br/>
 
 Co-Instructor for CEE 669 Spatial and Visual Sensing in Construction
 ======
@@ -31,7 +31,7 @@ Department of Civil and Environment Engineering, *University of Wisconsin-Madiso
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <img src="../images/159.jpg" alt="Description of image" width="500">
+    <img src="../images/159.jpg" alt="Description of image" width="400">
   </div>
   <div style="flex: 1; padding-left: 20px;">
     <p>
@@ -46,7 +46,7 @@ Department of Computer Sciences, *University of Wisconsin-Madison*, Spring 2022
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <img src="../images/159.jpg" alt="Description of image" width="500">
+    <img src="../images/159.jpg" alt="Description of image" width="400">
   </div>
   <div style="flex: 1; padding-left: 20px;">
     <p>
