@@ -23,7 +23,8 @@ Department of Civil and Environment Engineering, *University of Wisconsin-Madiso
       Students were listening to the lecture related to the use of AutoCAD. 
     </p>
   </div>
-</div><br/>
+</div>
+---
 
 Co-Instructor for CEE 669 Spatial and Visual Sensing in Construction
 ======
