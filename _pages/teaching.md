@@ -15,10 +15,10 @@ Independent Instructor for CEE 159 Civil Engineering Graphics
 Department of Civil and Environment Engineering, *University of Wisconsin-Madison*, Spring 2024
 
 <div style="display: flex; align-items: flex-start; gap: 5px">
-  <div style="flex: 1;">
+  <div style="flex: 1; margin: 0; padding: 0;">
     <img src="../images/159.jpg" alt="Description of image" width="400">
   </div>
-  <div style="flex: 1;">
+  <div style="flex: 1; margin: 0; padding: 0;">
     <p>
       Students were listening to the lecture related to the use of AutoCAD. 
     </p>
