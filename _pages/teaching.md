@@ -16,7 +16,7 @@ Department of Civil and Environment Engineering1, *University of Wisconsin-Madis
 
 <div style="display: flex; align-items: flex-start; gap: 0">
   <div style="flex: 1; margin: 0; padding: 0;">
-    <img src="../images/159.jpg" alt="Description of image" width="400">
+    <img src="../images/159.jpg" alt="Description of image" width="450">
   </div>
   <div style="flex: 1; margin: 0; padding: 0;">
     <p>
