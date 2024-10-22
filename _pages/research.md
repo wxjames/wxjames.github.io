@@ -25,7 +25,7 @@ redirect_from:
   <div style="text-align: center;">
     <iframe width="450" height="338" src="https://www.youtube.com/embed/LV8_7O8yeCE" 
     frameborder="0" allowfullscreen></iframe>
-    <p><strong>Pilot Study for Human Machine Interaction in Construction</strong></p>
+    <p>Pilot Study for Human Machine Interaction in Construction</p>
   </div>
 
 </div>
