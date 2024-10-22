@@ -30,33 +30,33 @@ Co-Instructor for CEE 669 Spatial and Visual Sensing in Construction
 ======
 Department of Civil and Environment Engineering, *University of Wisconsin-Madison*, Spring 2023
 
-<div style="display: flex; align-items: flex-start;">
-  <div style="flex: 1;">
-    <img src="../images/159.jpg" alt="Description of image" width="400">
+<div style="display: flex; align-items: flex-start; gap: 0">
+  <div style="flex: 1; margin: 0; padding: 0;">
+    <img src="../images/159.jpg" alt="Description of image" width="450">
   </div>
-  <div style="flex: 1; padding-left: 20px;">
+  <div style="flex: 1; margin: 0; padding: 0;">
     <p>
-      Students were visiting the CAVE in Madison Campus. 
+      Students were visiting the CAVE in Madison Campus.  
     </p>
   </div>
 </div>
-
 ---
 
 Teaching Assitant (TA) for CS 220 Data Programming
 ======
 Department of Computer Sciences, *University of Wisconsin-Madison*, Spring 2022
 
-<div style="display: flex; align-items: flex-start;">
-  <div style="flex: 1;">
-    <img src="../images/159.jpg" alt="Description of image" width="400">
+<div style="display: flex; align-items: flex-start; gap: 0">
+  <div style="flex: 1; margin: 0; padding: 0;">
+    <img src="../images/159.jpg" alt="Description of image" width="450">
   </div>
-  <div style="flex: 1; padding-left: 20px;">
+  <div style="flex: 1; margin: 0; padding: 0;">
     <p>
-      Students were taking the midterm exam. 
+      Students were taking the midterm exam.  
     </p>
   </div>
 </div>
+
 
 <!-- Education
 ======
