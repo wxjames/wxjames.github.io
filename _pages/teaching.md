@@ -16,7 +16,7 @@ Department of Civil and Environment Engineering, *University of Wisconsin-Madiso
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <img src="../images/159.jpg" alt="Description of image" width="300">
+    <img src="../images/159.jpg" alt="Description of image" width="500">
   </div>
   <div style="flex: 1; padding-left: 10px;">
     <p>
@@ -31,7 +31,7 @@ Department of Civil and Environment Engineering, *University of Wisconsin-Madiso
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <img src="wxjames.github.io/images/159.jpg" alt="Description of image" width="300">
+    <img src="../images/159.jpg" alt="Description of image" width="500">
   </div>
   <div style="flex: 1; padding-left: 20px;">
     <p>
@@ -46,7 +46,7 @@ Department of Computer Sciences, *University of Wisconsin-Madison*, Spring 2022
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <img src="wxjames.github.io/images/159.jpg" alt="Description of image" width="300">
+    <img src="../images/159.jpg" alt="Description of image" width="500">
   </div>
   <div style="flex: 1; padding-left: 20px;">
     <p>
