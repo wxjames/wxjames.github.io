@@ -14,7 +14,7 @@ redirect_from:
 
 *American Society of Civil Engineering*, March 2024
 
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="flex: 1; margin-right: 10px;">
     <img src="../images/award1.jpg" alt="Image 1 description" width="450">
   </div>
@@ -25,20 +25,20 @@ redirect_from:
 
 ---
 
-## Reviews
+## Best Academic Paper Award in Transforming Construction with Reality Capture Technologies Conference
 
-* Journal Article Reviewer
-  * **Civil Engineering**: ASCE Journal of Computing in Civil Engineering, ASCE Journal of Construction Engineering and Management, Elsevier Journal of Automation in Construction, Elsevier Journal of Advanced Engineering Informatics, Elsevier Journal of Tunnelling and Underground Space Technology, Elsevier Journal of Underground Space 
-  * **Multidisciplinary**: Elsevier Journal of Computer Vision and Image Understanding, International Journal of Human–Computer Interaction, IEEE Access, Journal of PLOS ONE
+*Canadian Society for Civil Engineering*, August 2022
 
-* Conference Proceeding Reviewer
-  * International Symposium on Automation and Robotics in Construction (ISARC), CI & CRC Joint Conference
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="flex: 1; margin-right: 10px;">
+    <img src="../images/award1.jpg" alt="Image 1 description" width="450">
+  </div>
+  <div style="flex: 1; margin-left: 10px;">
+    <img src="../images/award2.jpg" alt="Image 2 description" width="450">
+  </div>
+</div>
 
 ---
-
-## Professional Affiliations
-
-* American Society of Civil Engineers (ASCE), Visualization, Information Modeling, and Simulation (VIMS), Data Sensing and Analysis (DS&A), Canadian Society for Civil Engineering (CSCE) 
 
 
 
