@@ -14,11 +14,11 @@ Independent Instructor for CEE 159 Civil Engineering Graphics
 ======
 Department of Civil and Environment Engineering, *University of Wisconsin-Madison*, Spring 2024
 
-<div style="display: flex; align-items: flex-start;">
-  <div style="flex: 1; margin-right: 10px;">
+<div style="display: flex; align-items: flex-start; gap: 5px">
+  <div style="flex: 1;">
     <img src="../images/159.jpg" alt="Description of image" width="400">
   </div>
-  <div style="flex: 1; padding-left: 0px;">
+  <div style="flex: 1;">
     <p>
       Students were listening to the lecture related to the use of AutoCAD. 
     </p>
@@ -30,7 +30,7 @@ Co-Instructor for CEE 669 Spatial and Visual Sensing in Construction
 ======
 Department of Civil and Environment Engineering, *University of Wisconsin-Madison*, Spring 2023
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: flex-start;">
   <div style="flex: 1;">
     <img src="../images/159.jpg" alt="Description of image" width="400">
   </div>
@@ -47,7 +47,7 @@ Teaching Assitant (TA) for CS 220 Data Programming
 ======
 Department of Computer Sciences, *University of Wisconsin-Madison*, Spring 2022
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: flex-start;">
   <div style="flex: 1;">
     <img src="../images/159.jpg" alt="Description of image" width="400">
   </div>
