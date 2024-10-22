@@ -18,7 +18,7 @@ Department of Civil and Environment Engineering, *University of Wisconsin-Madiso
   <div style="flex: 1;">
     <img src="wxjames.github.io/images/159.jpg" alt="Description of image" width="300">
   </div>
-  <div style="flex: 1; padding-left: 20px;">
+  <div style="flex: 1; padding-left: 10px;">
     <p>
       Students were listening to the lecture related to the use of AutoCAD. 
     </p>
@@ -29,9 +29,31 @@ Co-Instructor for CEE 669 Spatial and Visual Sensing in Construction
 ======
 Department of Civil and Environment Engineering, *University of Wisconsin-Madison*, Spring 2023
 
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <img src="wxjames.github.io/images/159.jpg" alt="Description of image" width="300">
+  </div>
+  <div style="flex: 1; padding-left: 20px;">
+    <p>
+      Students were visiting the CAVE in Madison Campus. 
+    </p>
+  </div>
+</div>
+
 Teaching Assitant (TA) for CS 220 Data Programming
 ======
 Department of Computer Sciences, *University of Wisconsin-Madison*, Spring 2022
+
+<div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+    <img src="wxjames.github.io/images/159.jpg" alt="Description of image" width="300">
+  </div>
+  <div style="flex: 1; padding-left: 20px;">
+    <p>
+      Students were taking the middle-term exam. 
+    </p>
+  </div>
+</div>
 
 <!-- Education
 ======
