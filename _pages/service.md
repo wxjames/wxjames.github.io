@@ -33,7 +33,7 @@ College of Engineering, *University of Wisconsin-Madison*, Spring 2022, 2023, 20
   * **Multidisciplinary**: Elsevier Journal of Computer Vision and Image Understanding, International Journal of Human–Computer Interaction, IEEE Access, Journal of PLOS ONE
 
 * Conference Proceeding Reviewer
-  * International Symposium on Automation and Robotics in Construction (ISARC), CI & CRC Joint Conference, 
+  * International Symposium on Automation and Robotics in Construction (ISARC), CI & CRC Joint Conference
 ---
 
 ## Teaching Assitant (TA) for CS 220 Data Programming
