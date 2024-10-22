@@ -12,11 +12,11 @@ redirect_from:
 
 Independent Instructor for CEE 159 Civil Engineering Graphics
 ======
-Department of Civil and Environment Engineering, University of Wisconsin-Madison, Spring 2024
+Department of Civil and Environment Engineering, *University of Wisconsin-Madison*, Spring 2024
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
-    <img src="images/Headshot.jpg" alt="Description of image" width="300">
+    <img src="/../images/Headshot.jpg" alt="Description of image" width="300">
   </div>
   <div style="flex: 1; padding-left: 20px;">
     <p>
