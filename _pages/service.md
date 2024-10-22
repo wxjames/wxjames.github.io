@@ -12,7 +12,7 @@ redirect_from:
 
 ## Presenter at [Engineering EXPO](https://engineeringexpo.wisc.edu/) 
 
-College of Engineering, *University of Wisconsin-Madison*, Spring 2022, 2023, 2024
+College of Engineering, *University of Wisconsin-Madison*, Spring 2022-2024
 
 <div style="display: flex; align-items: flex-start; gap: 0">
   <div style="flex: 1; margin: 0; padding: 0;">
@@ -34,6 +34,7 @@ College of Engineering, *University of Wisconsin-Madison*, Spring 2022, 2023, 20
 
 * Conference Proceeding Reviewer
   * International Symposium on Automation and Robotics in Construction (ISARC), CI & CRC Joint Conference
+
 ---
 
 ## Teaching Assitant (TA) for CS 220 Data Programming
