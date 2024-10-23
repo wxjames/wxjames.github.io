@@ -12,7 +12,17 @@ redirect_from:
 
 ## Industrializing Construction to Decarbonize Buildings, *U.S. Department of Energy*
 
-
+<div style="display: flex; align-items: flex-start; gap: 0">
+  <div style="flex: 1; margin: 0; padding: 0;">
+    <img src="../images/roadmap.jpg" alt="Description of image" width="450">
+  </div>
+  <div style="flex: 1; margin: 0; padding: 0;">
+    <p>
+      Students were listening to the lecture related to the use of AutoCAD. 
+    </p>
+  </div>
+</div>
+---
 
 ## Context-Aware Worker Intent Interpretation for Human-Robot Collaboration in Construction, *Wisconsin Alumni Research Foundation*
 ### Vision–Based Framework for Automatic Interpretation of Construction Workers’ Hand Gestures 
@@ -92,7 +102,7 @@ redirect_from:
 
 ---
 
-## Transformer-Based Segmentation for Recycling Materials in Construction, *<span style="color: red;">First place</span> in [VIMS-IAARC Joint Datathon 2022 Competition](https://www.linkedin.com/feed/update/urn:li:activity:6918671751778373632/)*
+## Transformer-Based Segmentation for Recycling Materials in Construction, *<span style="color: red;">First Flace</span> in [VIMS-IAARC Joint Datathon 2022 Competition](https://www.linkedin.com/feed/update/urn:li:activity:6918671751778373632/)*
 [Paper](https://www.sciencedirect.com/science/article/pii/S0926580523002431)
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
