@@ -16,6 +16,26 @@ redirect_from:
 
 <div style="display: flex; justify-content: space-between;">
 
+  <div style="text-align: center; width: 45%;">
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+      src="https://www.youtube.com/embed/ew2U-zLq87I" frameborder="0" allowfullscreen></iframe>
+    </div>
+    <p><strong>Video 1 Caption</strong></p>
+  </div>
+
+  <div style="text-align: center; width: 45%;">
+    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+      src="https://www.youtube.com/embed/LV8_7O8yeCE" frameborder="0" allowfullscreen></iframe>
+    </div>
+    <p><strong>Video 2 Caption</strong></p>
+  </div>
+
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+
   <div style="text-align: center;">
     <iframe height="315" style="width: 100%; max-width: 560px;" 
     src="https://www.youtube.com/embed/ew2U-zLq87I" frameborder="0" allowfullscreen></iframe>
@@ -25,22 +45,6 @@ redirect_from:
   <div style="text-align: center;">
     <iframe height="315" style="width: 100%; max-width: 560px;" 
     src="https://www.youtube.com/embed/LV8_7O8yeCE" frameborder="0" allowfullscreen></iframe>
-    <p>Pilot Study for Human Machine Interaction in Construction</p>
-  </div>
-
-</div>
-
-<div style="display: flex; justify-content: space-between;">
-
-  <div style="text-align: center;">
-    <iframe height="320" src="https://www.youtube.com/embed/ew2U-zLq87I" 
-    frameborder="0" allowfullscreen></iframe>
-    <p>Field Test Results On a Construction Site Near Milwaukee, WI</p>
-  </div>
-
-  <div style="text-align: center;">
-    <iframe height="320" src="https://www.youtube.com/embed/LV8_7O8yeCE" 
-    frameborder="0" allowfullscreen></iframe>
     <p>Pilot Study for Human Machine Interaction in Construction</p>
   </div>
 
