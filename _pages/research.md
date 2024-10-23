@@ -39,14 +39,14 @@ redirect_from:
   <div style="flex: 1; margin-right: 10px; text-align: center; max-width: 50%;">
     <iframe height="315" style="width: 100%; object-fit: cover;" 
     src="https://www.youtube.com/embed/e2Uf2nTtvsc" frameborder="0" allowfullscreen></iframe>
-    <p>Field Test Results On a Construction Site Near Milwaukee, WI</p>
+    <p>Wearable Sensors-Based Hand Gesture Recognition</p>
   </div>
 
   <!-- Right: Video 2 -->
   <div style="flex: 1; margin-left: 10px; text-align: center; max-width: 50%;">
     <iframe height="315" style="width: 100%; object-fit: cover;" 
     src="https://www.youtube.com/embed/Xhx9rJ9TWmw" frameborder="0" allowfullscreen></iframe>
-    <p>Pilot Study for Human Machine Interaction in Construction</p>
+    <p>Gaze-Aware Gesture Recognition for Intelligent Construction</p>
   </div>
 
 </div>
