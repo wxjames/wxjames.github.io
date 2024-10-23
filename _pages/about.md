@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral researcher in **Industralized Construction Innovation** at National Renewable Energy Laboratory (NREL). I obtained my Ph.D. degree in Civil Engineering and my Master's degree in Computer Sciences from University of Wisconsin-Madison. Before moving to Madison, I received a Master's degree and a Bachelor's degree in Civil Engineering from Tongji University, China. 
+I am a postdoctoral researcher in **Industrialized Construction Innovation** at National Renewable Energy Laboratory (NREL). I obtained my Ph.D. degree in Civil Engineering and my Master's degree in Computer Sciences from University of Wisconsin-Madison. Before moving to Madison, I received a Master's degree and a Bachelor's degree in Civil Engineering from Tongji University, China. 
 
 The long term goal of my reseaerch is to advance **automation and intelligence technologies**, and **human-centered approaches** to address challenges in **construction** and **infrastructure systems**. My current work focuses on the following aspects:  
 
