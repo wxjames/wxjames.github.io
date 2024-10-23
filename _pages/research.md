@@ -36,13 +36,13 @@ redirect_from:
 <div style="display: flex; justify-content: space-between;">
 
   <div style="text-align: center;">
-    <iframe height="315" style="width: 100%; max-width: 560px;" 
+    <iframe height="315" width="560" 
     src="https://www.youtube.com/embed/e2Uf2nTtvsc" frameborder="0" allowfullscreen></iframe>
-    <p>Wearable Sensors-Based Hand Gesture Recognition in Construction</p>
+    <p>Wearable Sensors-Based Hand Gesture Recognition</p>
   </div>
 
   <div style="text-align: center;">
-    <iframe height="315" style="width: 100%; max-width: 560px;" 
+    <iframe height="315" width="560"  
     src="https://www.youtube.com/embed/Xhx9rJ9TWmw" frameborder="0" allowfullscreen></iframe>
     <p>Gaze-Aware Gesture Recognition for Intelligent Construction</p>
   </div>
@@ -68,6 +68,9 @@ redirect_from:
 </div>
 
 ---
+
+## Transformer-Based Segmentation for Recycling Materials in Construction, *First place in [VIMS-IAARC Joint Datathon 2022 Competition](https://www.linkedin.com/feed/update/urn:li:activity:6918671751778373632/)*
+[Paper](https://www.sciencedirect.com/science/article/pii/S0926580523002431)
 
 
 <!-- Education
