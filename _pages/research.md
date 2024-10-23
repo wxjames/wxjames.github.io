@@ -72,7 +72,7 @@ redirect_from:
       <img src="../images/twostream.jpg" alt="Description of the image" 
       style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
     </div>
-    <p>Two-Stream Context-Aware Gesture Recognition Architecture</p>
+    <p>Two-Stream Context-Aware Recognition Architecture</p>
   </div>
 
   <!-- Right: Video -->
@@ -86,22 +86,29 @@ redirect_from:
 
 </div>
 
-<div style="display: flex; justify-content: space-between;">
+---
 
-  <div style="flex: 1; margin-right: 10px; text-align: center;">
-    <img src="../images/twostream.jpg" alt="Description of the image" style="height: 315px; width: auto;">
-    <p>Two-Stream Context-Aware Gesture Recognition Architecture</p>
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  
+  <!-- Left: Video 1 -->
+  <div style="flex: 1; margin-right: 10px; text-align: center; max-width: 50%;">
+    <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+      src="https://www.youtube.com/embed/9H7RmYF8cH8" frameborder="0" allowfullscreen></iframe>
+    </div>
+    <p>Video Demonstration on Debris and Rebars</p>
   </div>
 
-  <div style="text-align: center;">
-    <iframe height="315" style="width: 100%; max-width: 560px;" 
-    src="https://www.youtube.com/embed/WZ1Y1_LToE4" frameborder="0" allowfullscreen></iframe>
-    <p>Context-Aware Gesture Interaction with Attention Maps</p>
+  <!-- Right: Video 2 -->
+  <div style="flex: 1; margin-left: 10px; text-align: center; max-width: 50%;">
+    <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+      src="https://www.youtube.com/embed/w8OFkWJsN0Y&t" frameborder="0" allowfullscreen></iframe>
+    </div>
+    <p>Video Demonstration on PVC Pipes</p>
   </div>
 
 </div>
-
----
 
 ## Transformer-Based Segmentation for Recycling Materials in Construction, *First place in [VIMS-IAARC Joint Datathon 2022 Competition](https://www.linkedin.com/feed/update/urn:li:activity:6918671751778373632/)*
 [Paper](https://www.sciencedirect.com/science/article/pii/S0926580523002431)
