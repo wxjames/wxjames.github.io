@@ -16,19 +16,15 @@ redirect_from:
 
 <div style="display: flex; justify-content: space-between;">
 
-  <div style="text-align: center; width: 45%;">
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-      <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
-      src="https://www.youtube.com/embed/ew2U-zLq87I" frameborder="0" allowfullscreen></iframe>
-    </div>
+  <div style="text-align: center;">
+    <iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/ew2U-zLq87I" frameborder="0" allowfullscreen></iframe>
     <p><strong>Video 1 Caption</strong></p>
   </div>
 
-  <div style="text-align: center; width: 45%;">
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-      <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
-      src="https://www.youtube.com/embed/LV8_7O8yeCE" frameborder="0" allowfullscreen></iframe>
-    </div>
+  <div style="text-align: center;">
+    <iframe width="560" height="315" 
+    src="https://www.youtube.com/embed/LV8_7O8yeCE" frameborder="0" allowfullscreen></iframe>
     <p><strong>Video 2 Caption</strong></p>
   </div>
 
