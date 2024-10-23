@@ -38,7 +38,7 @@ redirect_from:
   <div style="text-align: center;">
     <iframe height="315" style="width: 100%; max-width: 560px;" 
     src="https://www.youtube.com/embed/e2Uf2nTtvsc" frameborder="0" allowfullscreen></iframe>
-    <p>Wearable Sensors-Based Hand Gesture Recognition</p>
+    <p>Wearable Sensors-Based Hand Gesture Recognition in Construction</p>
   </div>
 
   <div style="text-align: center;">
@@ -55,13 +55,13 @@ redirect_from:
 <div style="display: flex; justify-content: space-between;">
 
   <div style="flex: 1; margin-right: 10px; text-align: center;">
-    <img src="../twostream.jpg" alt="Description of the image" style="height: 315px; width: auto;">
+    <img src="../images/twostream.jpg" alt="Description of the image" style="height: 315px; width: auto;">
     <p>Two-Stream Context-Aware Gesture Recognition Architecture</p>
   </div>
 
   <div style="text-align: center;">
     <iframe height="315" style="width: 100%; max-width: 560px;" 
-    src="https://www.youtube.com/embed/WZ1Y1_LToE4&t=26s" frameborder="0" allowfullscreen></iframe>
+    src="https://www.youtube.com/embed/WZ1Y1_LToE4" frameborder="0" allowfullscreen></iframe>
     <p>Context-Aware Gesture Interaction with Attention Maps</p>
   </div>
 
