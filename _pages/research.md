@@ -18,7 +18,8 @@ redirect_from:
   </div>
   <div style="flex: 1; margin: 0; padding: 0;">
     <p>
-      Students were listening to the lecture related to the use of AutoCAD. 
+      * Investigate the effects of different HVAC systems and their installation methods on the building energy performance. 
+      * Utilize robotics technologies for the building of the solar farm. 
     </p>
   </div>
 </div>
@@ -102,7 +103,7 @@ redirect_from:
 
 ---
 
-## Transformer-Based Segmentation for Recycling Materials in Construction, *<span style="color: red;">First Flace</span> in [VIMS-IAARC Joint Datathon 2022 Competition](https://www.linkedin.com/feed/update/urn:li:activity:6918671751778373632/)*
+## Transformer-Based Segmentation for Recycling Materials in Construction, *<span style="color: red;">First Place</span> in [VIMS-IAARC Joint Datathon 2022 Competition](https://www.linkedin.com/feed/update/urn:li:activity:6918671751778373632/)*
 [Paper](https://www.sciencedirect.com/science/article/pii/S0926580523002431)
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
