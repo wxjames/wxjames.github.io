@@ -17,22 +17,6 @@ redirect_from:
 <div style="display: flex; justify-content: space-between;">
 
   <div style="text-align: center;">
-    <iframe width="560" height="315" 
-    src="https://www.youtube.com/embed/ew2U-zLq87I" frameborder="0" allowfullscreen></iframe>
-    <p><strong>Video 1 Caption</strong></p>
-  </div>
-
-  <div style="text-align: center;">
-    <iframe width="560" height="315" 
-    src="https://www.youtube.com/embed/LV8_7O8yeCE" frameborder="0" allowfullscreen></iframe>
-    <p><strong>Video 2 Caption</strong></p>
-  </div>
-
-</div>
-
-<div style="display: flex; justify-content: space-between;">
-
-  <div style="text-align: center;">
     <iframe height="315" style="width: 100%; max-width: 560px;" 
     src="https://www.youtube.com/embed/ew2U-zLq87I" frameborder="0" allowfullscreen></iframe>
     <p>Field Test Results On a Construction Site Near Milwaukee, WI</p>
