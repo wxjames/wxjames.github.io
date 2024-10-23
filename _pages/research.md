@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-## Context-Aware Worker Intent Interpretation for Human-Robot Collaboration in Construction
+## Context-Aware Worker Intent Interpretation for Human-Robot Collaboration in Construction, *Wisconsin Alumni Research Foundation*
 ### Vision–Based Framework for Automatic Interpretation of Construction Workers’ Hand Gestures 
 [Papers 1](https://www.sciencedirect.com/science/article/abs/pii/S0926580521000765), [2](https://www.sciencedirect.com/science/article/abs/pii/S092658052100323X)
 
@@ -26,6 +26,25 @@ redirect_from:
     <iframe height="315" style="width: 100%; max-width: 560px; object-fit: cover;" 
     src="https://www.youtube.com/embed/LV8_7O8yeCE" frameborder="0" allowfullscreen></iframe>
     <p>Pilot Study for Human Machine Interaction in Construction</p>
+  </div>
+
+</div>
+
+### Wearable Sensors-Based Hand Gesture Recognition for Human-Robot Collaboration in Construction
+[Papers 1](https://ieeexplore.ieee.org/abstract/document/9961200), [2](https://linkinghub.elsevier.com/retrieve/pii/S0952197623003639)
+
+<div style="display: flex; justify-content: space-between;">
+
+  <div style="text-align: center;">
+    <iframe height="315" style="width: 100%; max-width: 560px; object-fit: cover;" 
+    src="https://www.youtube.com/embed/e2Uf2nTtvsc" frameborder="0" allowfullscreen></iframe>
+    <p>Wearable Sensors-Based Hand Gesture Recognition</p>
+  </div>
+
+  <div style="text-align: center;">
+    <iframe height="315" style="width: 100%; max-width: 560px; object-fit: cover;" 
+    src="https://www.youtube.com/embed/Xhx9rJ9TWmw" frameborder="0" allowfullscreen></iframe>
+    <p>Gaze-Aware Gesture Recognition for Intelligent Construction</p>
   </div>
 
 </div>
