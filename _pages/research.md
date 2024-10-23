@@ -92,7 +92,7 @@ redirect_from:
 
 ---
 
-## Transformer-Based Segmentation for Recycling Materials in Construction, *<span style="color: red;">Red First place</span> in [VIMS-IAARC Joint Datathon 2022 Competition](https://www.linkedin.com/feed/update/urn:li:activity:6918671751778373632/)*
+## Transformer-Based Segmentation for Recycling Materials in Construction, *<span style="color: red;">First place</span> in [VIMS-IAARC Joint Datathon 2022 Competition](https://www.linkedin.com/feed/update/urn:li:activity:6918671751778373632/)*
 [Paper](https://www.sciencedirect.com/science/article/pii/S0926580523002431)
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
