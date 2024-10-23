@@ -10,6 +10,10 @@ redirect_from:
 
 {% include base_path %}
 
+## Industrializing Construction to Decarbonize Buildings, *U.S. Department of Energy*
+
+
+
 ## Context-Aware Worker Intent Interpretation for Human-Robot Collaboration in Construction, *Wisconsin Alumni Research Foundation*
 ### Vision–Based Framework for Automatic Interpretation of Construction Workers’ Hand Gestures 
 [Papers 1](https://www.sciencedirect.com/science/article/abs/pii/S0926580521000765), [2](https://www.sciencedirect.com/science/article/abs/pii/S092658052100323X)
