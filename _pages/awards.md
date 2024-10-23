@@ -16,10 +16,10 @@ redirect_from:
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="flex: 1; margin-right: 10px;">
-    <img src="../images/award1.jpg" alt="Image 1 description" height="320">
+    <img src="../images/award1.jpg" alt="Image 1 description" width = "450" height="320">
   </div>
   <div style="flex: 1; margin-left: 10px;">
-    <img src="../images/award2.jpg" alt="Image 2 description" height="320">
+    <img src="../images/award2.jpg" alt="Image 2 description" width = "450" height="320">
   </div>
 </div>
 
