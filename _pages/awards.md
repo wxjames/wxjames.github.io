@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-## [Best Paper Award Across All Tracks (~400 papers) in CI & CRC Joint Conference](https://engineering.wisc.edu/blog/xin-wang-redefines-human-robot-collaboration-in-construction/) 
+## [Best Paper Award Across All Tracks (~400 papers)1 in CI & CRC Joint Conference](https://engineering.wisc.edu/blog/xin-wang-redefines-human-robot-collaboration-in-construction/) 
 
 *American Society of Civil Engineering*, March 2024
 
