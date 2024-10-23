@@ -24,6 +24,9 @@ redirect_from:
   </p>
   </div>
 </div>
+
+
+<!-- * Investigate the effects of different HVAC systems and their installation methods on the building energy performance. * Utilize robotics technologies for the building of the solar farm. -->
 ---
 
 ## Context-Aware Worker Intent Interpretation for Human-Robot Collaboration in Construction, *Wisconsin Alumni Research Foundation*
