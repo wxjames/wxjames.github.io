@@ -17,13 +17,13 @@ redirect_from:
 <div style="display: flex; justify-content: space-between;">
 
   <div style="text-align: center;">
-    <iframe width="450" height="338" src="https://www.youtube.com/embed/ew2U-zLq87I" 
+    <iframe height="320" src="https://www.youtube.com/embed/ew2U-zLq87I" 
     frameborder="0" allowfullscreen></iframe>
     <p>Field Test Results On a Construction Site Near Milwaukee, WI</p>
   </div>
 
   <div style="text-align: center;">
-    <iframe width="450" height="338" src="https://www.youtube.com/embed/LV8_7O8yeCE" 
+    <iframe height="320" src="https://www.youtube.com/embed/LV8_7O8yeCE" 
     frameborder="0" allowfullscreen></iframe>
     <p>Pilot Study for Human Machine Interaction in Construction</p>
   </div>
