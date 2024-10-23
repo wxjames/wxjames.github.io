@@ -18,15 +18,12 @@ redirect_from:
   </div>
   <div style="flex: 1; margin: 0; padding: 0;">
   <p>
-    <li>First point</li>
-    <li>Second point</li>
-    <li>Third point</li>
+    <li>Investigate the effects of different HVAC systems and their installation methods on the building energy performance.</li>
+    <li>Utilize robotics technologies for the building of the solar farm.</li>
   </p>
   </div>
 </div>
 
-
-<!-- * Investigate the effects of different HVAC systems and their installation methods on the building energy performance. * Utilize robotics technologies for the building of the solar farm. -->
 ---
 
 ## Context-Aware Worker Intent Interpretation for Human-Robot Collaboration in Construction, *Wisconsin Alumni Research Foundation*
