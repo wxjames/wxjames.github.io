@@ -36,22 +36,6 @@ redirect_from:
 
 </div>
 
-<!-- <div style="display: flex; justify-content: space-between;">
-
-  <div style="text-align: center;">
-    <iframe height="315" style="width: 100%; max-width: 560px; object-fit: cover;" 
-    src="https://www.youtube.com/embed/ew2U-zLq87I" frameborder="0" allowfullscreen></iframe>
-    <p>Field Test Results On a Construction Site Near Milwaukee, WI</p>
-  </div>
-
-  <div style="text-align: center;">
-    <iframe height="315" style="width: 100%; max-width: 560px; object-fit: cover;" 
-    src="https://www.youtube.com/embed/LV8_7O8yeCE" frameborder="0" allowfullscreen></iframe>
-    <p>Pilot Study for Human Machine Interaction in Construction</p>
-  </div>
-
-</div> -->
-
 ### Wearable Sensors-Based Hand Gesture Recognition for Human-Robot Collaboration in Construction
 [Papers 1](https://ieeexplore.ieee.org/abstract/document/9961200), [2](https://linkinghub.elsevier.com/retrieve/pii/S0952197623003639)
 
@@ -79,6 +63,28 @@ redirect_from:
 
 ### Context-Aware Hand Gesture Interaction for Intelligent Construction
 [Paper](https://onlinelibrary.wiley.com/doi/full/10.1111/mice.13202)
+
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  
+  <!-- Left: Figure -->
+  <div style="flex: 1; margin-right: 10px; text-align: center; max-width: 50%;">
+    <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <img src="../images/twostream.jpg" alt="Description of the image" 
+      style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover;">
+    </div>
+    <p>Two-Stream Context-Aware Gesture Recognition Architecture</p>
+  </div>
+
+  <!-- Right: Video -->
+  <div style="flex: 1; margin-left: 10px; text-align: center; max-width: 50%;">
+    <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+      src="https://www.youtube.com/embed//WZ1Y1_LToE4" frameborder="0" allowfullscreen></iframe>
+    </div>
+    <p>Context-Aware Gesture Interaction with Attention Maps</p>
+  </div>
+
+</div>
 
 <div style="display: flex; justify-content: space-between;">
 
