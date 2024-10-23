@@ -36,16 +36,20 @@ redirect_from:
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   
   <!-- Left: Video 1 -->
-  <div style="flex: 1; margin-right: 10px; text-align: center; max-width: 50%; position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-    <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
-    src="https://www.youtube.com/embed/e2Uf2nTtvsc" frameborder="0" allowfullscreen></iframe>
+  <div style="flex: 1; margin-right: 10px; text-align: center; max-width: 50%;">
+    <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+      src="https://www.youtube.com/embed/e2Uf2nTtvsc" frameborder="0" allowfullscreen></iframe>
+    </div>
     <p>Wearable Sensors-Based Hand Gesture Recognition</p>
   </div>
 
   <!-- Right: Video 2 -->
-  <div style="flex: 1; margin-left: 10px; text-align: center; max-width: 50%; position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-    <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
-    src="https://www.youtube.com/embed/Xhx9rJ9TWmw" frameborder="0" allowfullscreen></iframe>
+  <div style="flex: 1; margin-left: 10px; text-align: center; max-width: 50%;">
+    <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+      <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
+      src="https://www.youtube.com/embed/Xhx9rJ9TWmw" frameborder="0" allowfullscreen></iframe>
+    </div>
     <p>Gaze-Aware Gesture Recognition for Intelligent Construction</p>
   </div>
 
