@@ -36,15 +36,33 @@ redirect_from:
 <div style="display: flex; justify-content: space-between;">
 
   <div style="text-align: center;">
-    <iframe height="315" style="width: 100%; max-width: 560px; object-fit: cover;" 
+    <iframe height="315" style="width: 100%; max-width: 560px;" 
     src="https://www.youtube.com/embed/e2Uf2nTtvsc" frameborder="0" allowfullscreen></iframe>
     <p>Wearable Sensors-Based Hand Gesture Recognition</p>
   </div>
 
   <div style="text-align: center;">
-    <iframe height="315" style="width: 100%; max-width: 560px; object-fit: cover;" 
+    <iframe height="315" style="width: 100%; max-width: 560px;" 
     src="https://www.youtube.com/embed/Xhx9rJ9TWmw" frameborder="0" allowfullscreen></iframe>
     <p>Gaze-Aware Gesture Recognition for Intelligent Construction</p>
+  </div>
+
+</div>
+
+### Context-Aware Hand Gesture Interaction for Intelligent Construction
+[Paper](https://onlinelibrary.wiley.com/doi/full/10.1111/mice.13202)
+
+<div style="display: flex; justify-content: space-between;">
+
+  <div style="flex: 1; margin-right: 10px; text-align: center;">
+    <img src="../twostream.jpg" alt="Description of the image" style="height: 315px; width: auto;">
+    <p>Two-Stream Context-Aware Gesture Recognition Architecture</p>
+  </div>
+
+  <div style="text-align: center;">
+    <iframe height="315" style="width: 100%; max-width: 560px;" 
+    src="https://www.youtube.com/embed/WZ1Y1_LToE4&t=26s" frameborder="0" allowfullscreen></iframe>
+    <p>Context-Aware Gesture Interaction with Attention Maps</p>
   </div>
 
 </div>
