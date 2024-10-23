@@ -33,11 +33,29 @@ redirect_from:
 ### Wearable Sensors-Based Hand Gesture Recognition for Human-Robot Collaboration in Construction
 [Papers 1](https://ieeexplore.ieee.org/abstract/document/9961200), [2](https://linkinghub.elsevier.com/retrieve/pii/S0952197623003639)
 
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  
+  <!-- Left: Video 1 -->
+  <div style="flex: 1; margin-right: 10px; text-align: center; max-width: 50%;">
+    <iframe height="315" style="width: 100%; object-fit: cover;" 
+    src="https://www.youtube.com/embed/e2Uf2nTtvsc" frameborder="0" allowfullscreen></iframe>
+    <p>Field Test Results On a Construction Site Near Milwaukee, WI</p>
+  </div>
+
+  <!-- Right: Video 2 -->
+  <div style="flex: 1; margin-left: 10px; text-align: center; max-width: 50%;">
+    <iframe height="315" style="width: 100%; object-fit: cover;" 
+    src="https://www.youtube.com/embed/Xhx9rJ9TWmw" frameborder="0" allowfullscreen></iframe>
+    <p>Pilot Study for Human Machine Interaction in Construction</p>
+  </div>
+
+</div>
+
 <div style="display: flex; justify-content: space-between;">
 
   <div style="text-align: center;">
     <iframe height="315" width="560" 
-    src="https://www.youtube.com/embed/e2Uf2nTtvsc" frameborder="0" allowfullscreen></iframe>
+    src="https://www.youtube.com/embed/e2Uf2nTtvsc" allowfullscreen></iframe>
     <p>Wearable Sensors-Based Hand Gesture Recognition</p>
   </div>
 
