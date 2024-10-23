@@ -88,6 +88,9 @@ redirect_from:
 
 ---
 
+## Transformer-Based Segmentation for Recycling Materials in Construction, *First place in [VIMS-IAARC Joint Datathon 2022 Competition](https://www.linkedin.com/feed/update/urn:li:activity:6918671751778373632/)*
+[Paper](https://www.sciencedirect.com/science/article/pii/S0926580523002431)
+
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   
   <!-- Left: Video 1 -->
@@ -103,16 +106,12 @@ redirect_from:
   <div style="flex: 1; margin-left: 10px; text-align: center; max-width: 50%;">
     <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden;">
       <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" 
-      src="https://www.youtube.com/embed/w8OFkWJsN0Y&t" frameborder="0" allowfullscreen></iframe>
+      src="https://www.youtube.com/embed/w8OFkWJsN0Y" frameborder="0" allowfullscreen></iframe>
     </div>
     <p>Video Demonstration on PVC Pipes</p>
   </div>
 
 </div>
-
-## Transformer-Based Segmentation for Recycling Materials in Construction, *First place in [VIMS-IAARC Joint Datathon 2022 Competition](https://www.linkedin.com/feed/update/urn:li:activity:6918671751778373632/)*
-[Paper](https://www.sciencedirect.com/science/article/pii/S0926580523002431)
-
 
 <!-- Education
 ======
