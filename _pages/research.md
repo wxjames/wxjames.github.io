@@ -17,10 +17,11 @@ redirect_from:
     <img src="../images/roadmap.jpg" alt="Description of image" width="450">
   </div>
   <div style="flex: 1; margin: 0; padding: 0;">
-    <p>
-      * Investigate the effects of different HVAC systems and their installation methods on the building energy performance. 
-      * Utilize robotics technologies for the building of the solar farm. 
-    </p>
+  <p>
+    <li>First point</li>
+    <li>Second point</li>
+    <li>Third point</li>
+  </p>
   </div>
 </div>
 ---
