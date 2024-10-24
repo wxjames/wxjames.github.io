@@ -14,16 +14,7 @@ redirect_from:
 
 Department of Civil and Environment Engineering, *University of Wisconsin-Madison*, Spring 2024
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="flex: 1; margin-right: 10px;">
-    <img src="../images/159.jpg" alt="Image 1 description" width="450">
-  </div>
-  <div style="flex: 1; margin-left: 10px;">
-    <img src="../images/1591.jpg" alt="Image 2 description" width="450">
-  </div>
-</div>
-
-<!-- <div style="display: flex; align-items: flex-start; gap: 0">
+<div style="display: flex; align-items: flex-start; gap: 0">
   <div style="flex: 1; margin: 0; padding: 0;">
     <img src="../images/159.jpg" alt="Description of image" width="450">
   </div>
@@ -32,7 +23,7 @@ Department of Civil and Environment Engineering, *University of Wisconsin-Madiso
       Students were listening to the lecture related to the use of AutoCAD. 
     </p>
   </div>
-</div> -->
+</div>
 ---
 
 ## Co-Instructor for CEE 669 Spatial and Visual Sensing in Construction
