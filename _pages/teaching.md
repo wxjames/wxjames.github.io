@@ -28,14 +28,12 @@ Department of Civil and Environment Engineering, *University of Wisconsin-Madiso
 
 Department of Civil and Environment Engineering, *University of Wisconsin-Madison*, Spring 2023
 
-<div style="display: flex; align-items: flex-start; gap: 0">
-  <div style="flex: 1; margin: 0; padding: 0;">
-    <img src="../images/cave.jpg" alt="Description of image" width="450">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="flex: 1; margin-right: 10px;">
+    <img src="../images/cave1.jpg" alt="Image 1 description" width="450">
   </div>
-  <div style="flex: 1; margin: 0; padding: 0;">
-    <p>
-      Students were visiting the CAVE in Madison Campus.  
-    </p>
+  <div style="flex: 1; margin-left: 10px;">
+    <img src="../images/cave2.jpg" alt="Image 2 description" width="450">
   </div>
 </div>
 ---
