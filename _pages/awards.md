@@ -35,7 +35,7 @@ redirect_from:
 
 ---
 
-## First Place in Student Research Presentation in Transforming Construction with Reality Capture Technologies Conference
+## First Place in Student Research Competition in Transforming Construction with Reality Capture Technologies Conference
 
 *Canadian Society for Civil Engineering*, August 2022
 
