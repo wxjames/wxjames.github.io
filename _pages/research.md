@@ -19,7 +19,7 @@ redirect_from:
   <div style="flex: 1; margin: 0; padding: 0;">
   <p>
     <li>Investigate the effects of different HVAC systems and their installation methods on the building energy performance.</li>
-    <li>Utilize robotics technologies for the building of solar farm.</li>
+    <li>Utilize robotic technologies for the building of solar farm.</li>
   </p>
   </div>
 </div>
