@@ -14,14 +14,12 @@ redirect_from:
 
 Department of Civil and Environment Engineering, *University of Wisconsin-Madison*, Spring 2024
 
-<div style="display: flex; align-items: flex-start; gap: 0">
-  <div style="flex: 1; margin: 0; padding: 0;">
-    <img src="../images/159.jpg" alt="Description of image" width="450">
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="flex: 1; margin-right: 10px;">
+    <img src="../images/159.jpg" alt="Image 1 description" width="450">
   </div>
-  <div style="flex: 1; margin: 0; padding: 0;">
-    <p>
-      Students were listening to the lecture related to the use of AutoCAD. 
-    </p>
+  <div style="flex: 1; margin-left: 10px;">
+    <img src="../images/1591.jpg" alt="Image 2 description" width="450">
   </div>
 </div>
 ---
@@ -46,7 +44,7 @@ Department of Civil and Environment Engineering, *University of Wisconsin-Madiso
 
 Department of Computer Sciences, *University of Wisconsin-Madison*, Spring 2022
 
-<div style="display: flex; align-items: flex-start; gap: 0">
+<!-- <div style="display: flex; align-items: flex-start; gap: 0">
   <div style="flex: 1; margin: 0; padding: 0;">
     <img src="../images/159.jpg" alt="Description of image" width="450">
   </div>
@@ -55,7 +53,7 @@ Department of Computer Sciences, *University of Wisconsin-Madison*, Spring 2022
       Students were taking the midterm exam.  
     </p>
   </div>
-</div>
+</div> -->
 
 
 <!-- Education
