@@ -45,7 +45,7 @@ redirect_from:
 
 ---
 
-## First Place in VIMS-IAARC Joint Datathon Competition
+## [First Place in VIMS-IAARC Joint Datathon Competition](https://civil-vims.org/3rd-datathon/)
 
 *American Society of Civil Engineering*, June 2022
 
