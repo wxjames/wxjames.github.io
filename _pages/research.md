@@ -18,9 +18,9 @@ redirect_from:
   </div>
   <div style="flex: 1; margin: 0; padding: 0;">
   <p>
-    <li>Investigate the effects of different HVAC systems and their installation methods in the modular construction of hotel units</li>
-    <li>Utilize deep learning models to predict global warming pontentials of government buildings</li>
-    <li>Explore robotic technologies for installing insulation panels automatically</li>
+    <li>Investigate the effects of different HVAC systems and their installation methods in the hotel modular construction</li>
+    <li>Utilize deep learning models to predict the global warming pontentials of government buildings</li>
+    <li>Explore robotic technologies for installing the insulation panels automatically</li>
   </p>
   </div>
 </div>
