@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am **an incoming Assistant Professor** at Zachry Department of Civil and Environmental Engineering of **Texas A&M University**, starting from Fall 2025. My research group is looking for highly self-motivated and talented students. To apply for the PhD program at Texas A&M University, please send your CV, a recent transcript and a brief description of your research experience and interests (one-page or in the email) to **wxjames007@hotmail.com**. Please use the **Prospective PhD Student - [Your Name]** as your email subject.
+I am **an incoming Assistant Professor** in Zachry Department of Civil and Environmental Engineering at **Texas A&M University** starting from Fall 2025. My research group is looking for highly self-motivated and talented students. To apply for the PhD program at Texas A&M University, please send your CV, a recent transcript and a brief description of your research experience and interests (one-page or in the email) to **wxjames007@hotmail.com**. Please use the **Prospective PhD Student - [Your Name]** as your email subject.
 
 Currently, I am a postdoctoral researcher in **Industrialized Construction Innovation** at **National Renewable Energy Laboratory (NREL)**. I obtained my Ph.D. degree in Civil Engineering and my Master's degree in Computer Sciences from University of Wisconsin-Madison. Before moving to Madison, I received a Master's degree and a Bachelor's degree in Civil Engineering from Tongji University, China. 
 
