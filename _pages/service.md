@@ -39,7 +39,7 @@ College of Engineering, *University of Wisconsin-Madison*, Spring 2022-2024
 
 * Journal Article Reviewer
   * **Civil Engineering**: ASCE Journal of Computing in Civil Engineering, ASCE Journal of Construction Engineering and Management, Elsevier Journal of Automation in Construction, Elsevier Journal of Advanced Engineering Informatics, Elsevier Journal of Tunnelling and Underground Space Technology, Elsevier Journal of Underground Space 
-  * **Multidisciplinary**: Elsevier Journal of Engineering Applications of Artificial Intelligence, Elsevier Journal of Computer Vision and Image Understanding, International Journal of Human–Computer Interaction, IEEE Access, Journal of Big Data and Cognitive Computing, Journal of Sensors, Journal of PLOS ONE
+  * **Multidisciplinary**: Elsevier Journal of Engineering Applications of Artificial Intelligence, Elsevier Journal of Computer Vision and Image Understanding, International Journal of Human–Computer Interaction, Elsevier Journal of Computers in Human Behavior Reports, IEEE Access, Journal of Big Data and Cognitive Computing, Journal of Sensors, Journal of PLOS ONE
 
 * Conference Proceeding Reviewer
   * International Symposium on Automation and Robotics in Construction (ISARC), CI & CRC Joint Conference
