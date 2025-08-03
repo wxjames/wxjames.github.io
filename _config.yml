@@ -24,9 +24,9 @@ author:
   avatar           : "Headshot.png"
   name             : "Xin Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Incoming Assistant Professor at Texas A&M University | Postdoctoral Researcher at National Renewable Energy Laboratory (NREL)"
-  location         : "Golden, CO"
-  employer         : "NREL"
+  bio              : "Assistant Professor at Texas A&M University"
+  location         : "College Station, TX"
+  employer         : "Texas A&M University"
   uri              : # URL
   email            : "xin.wang@tamu.edu" 
 
