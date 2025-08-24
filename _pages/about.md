@@ -8,7 +8,7 @@ redirect_from:
 ---
 I am **an Assistant Professor** in the Zachry Department of Civil and Environmental Engineering at **Texas A&M University**. My research group is looking for highly self-motivated and talented students. To apply for the PhD program, please send your CV, a recent transcript and a brief description of your research experience and interests (one-page or in the email) to **xin.wang@tamu.edu**. Please use the **Prospective PhD Student - [Your Name]** as your email subject.
 
-I was a postdoctoral researcher in Industrialized Construction Innovation at **National Renewable Energy Laboratory (NREL)**. I obtained my Ph.D. degree in Civil Engineering and my Master's degree in Computer Sciences from **University of Wisconsin-Madison**. Before moving to Madison, I received a Master's degree and a Bachelor's degree in Civil Engineering from **Tongji University**, China. 
+I was a postdoctoral researcher in Industrialized Construction Innovation at **National Renewable Energy Laboratory (NREL)**. I obtained my Ph.D. degree in Civil Engineering and my Master's degree in Computer Sciences from **University of Wisconsin-Madison**. Before that, I received a Master's degree and a Bachelor's degree in Civil Engineering from **Tongji University**, China. 
 
 The long term goal of my research is to advance **automation and intelligence technologies**, and **human-centered approaches** to address challenges in **construction** and **infrastructure systems**. My current work focuses on the following aspects:  
 
