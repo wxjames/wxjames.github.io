@@ -10,6 +10,16 @@ redirect_from:
 
 {% include base_path %}
 
+## Top Pitch for Sci3 Showcase and Workshop Directorate Preliminaries
+
+*Natioanl Renewable Energy Laboratory*, June 2025
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="../images/toppitch.jpg" alt="Image 1 description" width="450">
+</div>
+
+---
+
 ## [Best Paper Award Across All Tracks (~400 papers) in CI & CRC Joint Conference](https://engineering.wisc.edu/blog/xin-wang-redefines-human-robot-collaboration-in-construction/) 
 
 *American Society of Civil Engineering*, March 2024
