@@ -10,7 +10,63 @@ redirect_from:
 
 {% include base_path %}
 
-## Independent Instructor for CEE 159 Civil Engineering Graphics
+## Instructor for CVEN 689 Artificial Intelligence in Construction
+
+Zachry Department of Civil and Environmental Engineering, *Texas A&M University*, Spring 2026
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="flex: 1; margin-right: 10px;">
+    <img src="../images/689-1.jpg" alt="Image 1 description" width="450">
+  </div>
+  <div style="flex: 1; margin-left: 10px;">
+    <img src="../images/689-2.jpg" alt="Image 2 description" width="450">
+  </div>
+</div>
+---
+
+## Coordinator for CVEN 681 Graduate Seminar in Construction, Geotechnical and Structural Engineering
+
+Zachry Department of Civil and Environmental Engineering, *Texas A&M University*, Spring 2026
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="flex: 1; margin-right: 10px;">
+    <img src="../images/681-1.jpg" alt="Image 1 description" width="450">
+  </div>
+  <div style="flex: 1; margin-left: 10px;">
+    <img src="../images/681-2.jpg" alt="Image 2 description" width="450">
+  </div>
+</div>
+---
+
+## Instructor for CVEN 302 Computer Applications in Engineering and Construction
+
+Zachry Department of Civil and Environmental Engineering, *Texas A&M University*, Fall 2025
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="flex: 1; margin-right: 10px;">
+    <img src="../images/302-1.jpg" alt="Image 1 description" width="450">
+  </div>
+  <div style="flex: 1; margin-left: 10px;">
+    <img src="../images/302-2.jpg" alt="Image 2 description" width="450">
+  </div>
+</div>
+---
+
+## Instructor for ENGR 491 AggiE-Challenge: AI Meets Construction Robotics
+
+College of Engineering, *Texas A&M University*, Fall 2025, Spring 2026
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="flex: 1; margin-right: 10px;">
+    <img src="../images/159.jpg" alt="Image 1 description" width="450">
+  </div>
+  <div style="flex: 1; margin-left: 10px;">
+    <img src="../images/1591.jpg" alt="Image 2 description" width="450">
+  </div>
+</div>
+---
+
+## Instructor for CEE 159 Civil Engineering Graphics
 
 Department of Civil and Environment Engineering, *University of Wisconsin-Madison*, Spring 2024
 
