@@ -53,7 +53,7 @@ Vision–Based Framework for Automatic Interpretation of Construction Workers’
 
 </div>
 
-### Wearable Sensors-Based Hand Gesture Recognition for Human-Robot Collaboration in Construction
+Wearable Sensors-Based Hand Gesture Recognition for Human-Robot Collaboration in Construction
 
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
@@ -78,7 +78,7 @@ Vision–Based Framework for Automatic Interpretation of Construction Workers’
 
 </div>
 
-### Context-Aware Hand Gesture Interaction for Intelligent Construction
+Context-Aware Hand Gesture Interaction for Intelligent Construction
 
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
