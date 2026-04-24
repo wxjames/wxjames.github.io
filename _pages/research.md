@@ -29,7 +29,7 @@ redirect_from:
 
 ## Context-Aware Worker Intent Interpretation for Human-Robot Collaboration in Construction, *Wisconsin Alumni Research Foundation*
 ### Vision–Based Framework for Automatic Interpretation of Construction Workers’ Hand Gestures 
-###
+
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   
@@ -54,7 +54,7 @@ redirect_from:
 </div>
 
 ### Wearable Sensors-Based Hand Gesture Recognition for Human-Robot Collaboration in Construction
-###
+
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   
@@ -79,7 +79,7 @@ redirect_from:
 </div>
 
 ### Context-Aware Hand Gesture Interaction for Intelligent Construction
-###
+
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   
@@ -106,7 +106,7 @@ redirect_from:
 ---
 
 ## Transformer-Based Segmentation for Recycling Materials in Construction, *<span style="color: red;">First Place</span> in [VIMS-IAARC Joint Datathon 2022 Competition](https://civil-vims.org/3rd-datathon/)*
-###
+
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   
