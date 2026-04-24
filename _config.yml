@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xin Wang, Ph.D."
+title                    : "SHIN Lab"
 title_separator          : "-"
 name                     : &name "Xin Wang"
 description              : &description "personal description"
@@ -22,7 +22,7 @@ repository               : "wxjames/wxjames.github.io"
 author:
   # Biographic information
   avatar           : "XinWang.JPG"
-  name             : "Xin Wang"
+  name             : "Director: Xin Wang"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor at Texas A&M University"
   location         : "College Station, TX"
