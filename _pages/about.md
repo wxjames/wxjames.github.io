@@ -7,6 +7,10 @@ redirect_from:
   - /about.html
 ---
 
+<div align="center">
+  <img src="../images/Logo.jpg" alt="Figure description" width="500"/>
+</div>
+
 The **S**calable **H**uman-Robot **I**ntelligence for **N**ext-Gen Construction (**SHIN**) Lab at Texas A&M University conducts multidisciplinary research to advance automation and intelligence technologies, and human-centered approaches to address challenges in construction and infrastructure systems. Our current research interests include:  
 
 * Human-Robot Interaction
