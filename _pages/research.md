@@ -28,7 +28,7 @@ redirect_from:
 ---
 
 ## Context-Aware Worker Intent Interpretation for Human-Robot Collaboration in Construction, *Wisconsin Alumni Research Foundation*
-* Vision–Based Framework for Automatic Interpretation of Construction Workers’ Hand Gestures 
+### Vision–Based Framework for Automatic Interpretation of Construction Workers’ Hand Gestures 
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   
@@ -52,7 +52,7 @@ redirect_from:
 
 </div>
 
-* Wearable Sensors-Based Hand Gesture Recognition for Human-Robot Collaboration in Construction
+### Wearable Sensors-Based Hand Gesture Recognition for Human-Robot Collaboration in Construction
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   
@@ -76,7 +76,7 @@ redirect_from:
 
 </div>
 
-* Context-Aware Hand Gesture Interaction for Intelligent Construction
+### Context-Aware Hand Gesture Interaction for Intelligent Construction
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
   
