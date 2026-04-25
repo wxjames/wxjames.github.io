@@ -24,10 +24,10 @@ author:
   avatar           : "XinWang.JPG"
   name             : "PI: Xin Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Assistant Professor at Texas A&M University"
+  bio              : "Assistant Professor @ Texas A&M University"
   location         : "College Station, TX"
   employer         : "Texas A&M University"
-  uri              : "https://engineering.tamu.edu/civil/profiles/wang-xin.html"
+  uri              : # "https://engineering.tamu.edu/civil/profiles/wang-xin.html"
   email            : "xin.wang@tamu.edu" 
 
   # Academic websites
