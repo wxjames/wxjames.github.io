@@ -12,7 +12,7 @@ redirect_from:
 
 ## Principal Investigator
 
-<div style="display: flex; align-items: flex-start; gap: 30px;">
+<div style="display: flex; align-items: center; gap: 30px;">
   <div style="flex: 0 0 200px;">
     <img src="../images/XinWang1.jpg" alt="Dr. Xin Wang" width="200">
   </div>
