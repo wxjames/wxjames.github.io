@@ -10,4 +10,16 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src="../files/CV.pdf" width="100%" height="800px"></iframe>
+## Principal Investigator
+
+<div class="profile-card">
+  <div class="profile-image">
+    <img src="../images/XinWang1.jpg" alt="Dr. Xin Wang">
+  </div>
+  <div class="profile-info">
+    <h2>Xin Wang, Ph.D.</h2>
+    <p>PhD</p>
+  </div>
+</div>
+
+---
