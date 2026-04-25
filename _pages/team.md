@@ -28,7 +28,7 @@ redirect_from:
 
 <div style="display: flex; align-items: center; gap: 30px;">
   <div style="flex: 0 0 200px;">
-    <img src="../images/zhengyu.jpg" alt="Zhengyu Tao" width="200">
+    <img src="../images/XinWang1.jpg" alt="Zhengyu Tao" width="200">
   </div>
   <div style="flex: 1;">
     <h2 style="margin-top: 0;">Zhengyu Tao</h2>
