@@ -24,6 +24,15 @@ The **S**calable **H**uman-Robot **I**ntelligence for **N**ext-Gen Construction 
 
 Our research group is looking for highly self-motivated and talented students. To apply for the PhD program, please send your CV, a recent transcript and a brief description of your research experience and interests (one-page or in the email) to *xin.wang@tamu.edu*. Please use the *Prospective PhD Student - [Your Name]* as your email subject.
 
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="flex: 1; margin-right: 10px;">
+    <img src="../images/cave1.jpg" alt="Image 1 description" width="450">
+  </div>
+  <div style="flex: 1; margin-left: 10px;">
+    <img src="../images/cave2.jpg" alt="Image 2 description" width="450">
+  </div>
+</div>
+
 <!-- 
 
 I am **an Assistant Professor** in the Zachry Department of Civil and Environmental Engineering at **Texas A&M University**. 
