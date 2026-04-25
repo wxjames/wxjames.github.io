@@ -18,7 +18,10 @@ The **S**calable **H**uman-Robot **I**ntelligence for **N**ext-Gen Construction 
 * Artificial Intelligence in Construction
 * Energy Infrastructure Innovation
 
+---
+
 ## Join Us
+
 Our research group is looking for highly self-motivated and talented students. To apply for the PhD program, please send your CV, a recent transcript and a brief description of your research experience and interests (one-page or in the email) to xin.wang@tamu.edu. Please use the "Prospective PhD Student - [Your Name]" as your email subject.
 
 <!-- 
