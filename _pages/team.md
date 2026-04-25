@@ -32,6 +32,6 @@ redirect_from:
   </div>
   <div style="flex: 1;">
     <h2 style="margin-top: 0;">Zhengyu Tao</h2>
-    <p> Zhengyu Tao joined the lab in Spring 2026. He received his M.S. in Mechanical Engineering from the University of Illinois Urbana-Champaign. He is currently working on robotic manipulation in cluttered and unstructured environments. </p>
+    <p> Zhengyu Tao joined the lab in Spring 2026. He received his M.S. degree in Mechanical Engineering from the University of Illinois Urbana-Champaign. He is currently working on robotic manipulation in cluttered and unstructured environments. </p>
   </div>
 </div>
