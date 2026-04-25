@@ -58,7 +58,7 @@ College of Engineering, *Texas A&M University*, Fall 2025, Spring 2026
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="flex: 1; margin-right: 10px;">
-    <img src="../images/491-1.jpg" alt="Image 1 description" width="450">
+    <img src="../images/491-1.JPG" alt="Image 1 description" width="450">
   </div>
   <div style="flex: 1; margin-left: 10px;">
     <img src="../images/491-2.jpg" alt="Image 2 description" width="450">
