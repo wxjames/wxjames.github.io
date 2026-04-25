@@ -25,3 +25,13 @@ redirect_from:
 ---
 
 ## Doctoral Students
+
+<div style="display: flex; align-items: center; gap: 30px;">
+  <div style="flex: 0 0 200px;">
+    <img src="../images/zhengyu.jpg" alt="Zhengyu Tao" width="200">
+  </div>
+  <div style="flex: 1;">
+    <h2 style="margin-top: 0;">Zhengyu Tao</h2>
+    <p> Zhengyu Tao joined the lab in Spring 2026. He received his M.S. in Mechanical Engineering from the University of Illinois Urbana-Champaign. He is currently working on robotic manipulation in cluttered and unstructured environments. </p>
+  </div>
+</div>
