@@ -38,20 +38,6 @@ Zachry Department of Civil and Environmental Engineering, *Texas A&M University*
 </div>
 ---
 
-## Instructor for CVEN 302 Computer Applications in Engineering and Construction
-
-Zachry Department of Civil and Environmental Engineering, *Texas A&M University*, Fall 2025
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <div style="flex: 1; margin-right: 10px;">
-    <img src="../images/302-1.jpg" alt="Image 1 description" width="450">
-  </div>
-  <div style="flex: 1; margin-left: 10px;">
-    <img src="../images/302-2.jpg" alt="Image 2 description" width="450">
-  </div>
-</div>
----
-
 ## Instructor for ENGR 491 AggiE-Challenge: AI Meets Construction Robotics
 
 College of Engineering, *Texas A&M University*, Fall 2025, Spring 2026
@@ -62,6 +48,20 @@ College of Engineering, *Texas A&M University*, Fall 2025, Spring 2026
   </div>
   <div style="flex: 1; margin-left: 10px;">
     <img src="../images/491-2.jpg" alt="Image 2 description" width="450">
+  </div>
+</div>
+---
+
+## Instructor for CVEN 302 Computer Applications in Engineering and Construction
+
+Zachry Department of Civil and Environmental Engineering, *Texas A&M University*, Fall 2025
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="flex: 1; margin-right: 10px;">
+    <img src="../images/302-1.jpg" alt="Image 1 description" width="450">
+  </div>
+  <div style="flex: 1; margin-left: 10px;">
+    <img src="../images/302-2.jpg" alt="Image 2 description" width="450">
   </div>
 </div>
 ---
