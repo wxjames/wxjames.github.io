@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <div align="center" style="margin-bottom: 30px;">
-  <img src="../images/Logo1.jpg" alt="Figure description" width="1000"/>
+  <img src="../images/Logo.jpg" alt="Figure description" width="450"/>
 </div>
 
 The **S**calable **H**uman-Robot **I**ntelligence for **N**ext-Gen Construction (**SHIN**) Lab at Texas A&M University conducts multidisciplinary research of advancing automation and intelligence technologies, and human-centered approaches to address challenges in construction and infrastructure systems. Our current research interests include:  
@@ -26,6 +26,8 @@ The **S**calable **H**uman-Robot **I**ntelligence for **N**ext-Gen Construction 
 Our research group is looking for highly self-motivated and talented students. To apply for the PhD program, please send your CV, a recent transcript and a brief description of your research experience and interests (one-page or in the email) to *xin.wang@tamu.edu*. Please use the *Prospective PhD Student - [Your Name]* as your email subject.
 
 <!-- 
+
+<img src="../images/Logo1.jpg" alt="Figure description" width="1000"/>
 
 I am **an Assistant Professor** in the Zachry Department of Civil and Environmental Engineering at **Texas A&M University**. 
 
